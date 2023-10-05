@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ants
+- 👋 Hi, I’m ikaroony or ika
 - 👀 I’m interested in python 3 and c++ for video games and information security.
 - 🌱 I’m currently learning python 3.
 - 💞️ I’m looking to collaborate on ...
